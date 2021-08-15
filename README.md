@@ -10,4 +10,5 @@
                               
     3) requirements.txt:  this file contains all the modules of python needed to run this code
     
+	4) model_performance_output:  this file show the accuracy and loss of the model
 
