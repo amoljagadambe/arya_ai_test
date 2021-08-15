@@ -1,0 +1,8 @@
+
+accuracy: 0.9289 - val_loss: 0.2276 - val_accuracy: 0.9278
+
+
+after adding dropout the val_loss decreases
+
+
+[test loss: 0.2684154212474823, test accuracy: 0.9093406796455383]
